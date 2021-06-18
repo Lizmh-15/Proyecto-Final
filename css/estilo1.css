@@ -1,0 +1,24 @@
+
+*
+{
+  font-family:Britannic Bold;
+  color:#333333;
+  margin:3px;
+}
+img
+{
+   width:20%;
+  height:10%;
+}
+@media (orientation:portrait)
+{
+   body
+   {
+          background:lightblue;
+   }
+}
+h1
+{
+  font-size:25px;
+  text-align:center;
+  color:#666666;

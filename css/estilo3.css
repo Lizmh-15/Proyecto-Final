@@ -1,0 +1,33 @@
+*
+{
+  font-size:30px;
+  font-family:Britannic Bold;
+  margin:3px;
+}
+@media (orientation:portrait)
+{
+   body
+   {
+          background:lightblue;
+   }
+}
+h1
+{
+  font-size:15px;
+  font-family:Arial;
+}
+h2
+{
+  font-size:15px;
+  font-family:Arial;
+}
+h3
+{
+  font-size:15px;
+  font-family:Arial;
+}
+h10
+{
+  font-size:15px;
+  font-family:Arial;
+}
